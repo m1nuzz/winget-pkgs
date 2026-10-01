@@ -10,7 +10,7 @@ Installers:
   - Architecture: x64
     InstallerType: inno
     InstallerUrl: https://github.com/m1nuzz/flux-launcher/releases/download/v0.1.131/FluxLauncher-Setup.exe
-    InstallerSha256: 8E27888D4642932C5836DEFDC33F673317278A8D5F43B38D5A6DCE525CB52DC4
+    InstallerSha256: FD520ADC680E81FA012AFD76D3C23F13ED0C88DBE0B991BA5479136F43DA9DD5
     Scope: user
     Dependencies:
       PackageDependencies:
